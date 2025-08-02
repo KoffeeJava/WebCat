@@ -73,15 +73,15 @@
                         arguments: {
                             ICO: {
                                 type: Scratch.ArgumentType.STRING,
-                                defaultValue: 'https://tinyurl.com/util-tux'
+                                defaultValue: 'https://i.ibb.co/0pGGjTBX/webcat.png'
                             },
                             TITLE: {
                                 type: Scratch.ArgumentType.STRING,
-                                defaultValue: 'Tuxtility'
+                                defaultValue: 'Webcat'
                             },
                             MESS: {
                                 type: Scratch.ArgumentType.STRING,
-                                defaultValue: 'Hello :)'
+                                defaultValue: 'Hello, World!'
                             }
 
                         }
